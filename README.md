@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @raihanscodeshow
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: 👇
+- My YouTube channel: https://www.youtube.com/@RaihansCodeShow
+- My Instagram: https://www.instagram.com/raihanscodeshow/
+- E-mail: raihanscodeshow@gmail.com
