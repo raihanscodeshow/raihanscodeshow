@@ -5,4 +5,5 @@
 - 📫 How to reach me: 👇
 - My YouTube channel: https://www.youtube.com/@RaihansCodeShow
 - My Instagram: https://www.instagram.com/raihanscodeshow/
+- My Twitter(X): https://twitter.com/RaihansCodeShow
 - E-mail: raihanscodeshow@gmail.com
